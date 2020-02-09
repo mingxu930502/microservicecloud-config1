@@ -13,3 +13,4 @@ spring:
  profiles: test
  application:
   name: microservice-config-atguigu-test
+#测试是否需要主动更新
